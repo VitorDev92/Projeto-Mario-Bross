@@ -4,8 +4,5 @@
 <br>
 <h4>- HTML | CSS foram as linguagens utilizadas na criação do projeto.</h4>
 <br>
-<h3>Abaixo imagens mostrando os modelos para utilização em Desktop e Smartphone;</h3>
-<br>
-<img src="https://github.com/VitorDev92/Projeto-Mario-Bross/blob/master/img/Smartphone.jpeg?raw=true"/>
 <br>
 <img src="https://github.com/VitorDev92/Projeto-Mario-Bross/blob/master/img/Desktop.jpeg?raw=true"/>
